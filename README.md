@@ -87,6 +87,7 @@ Smoke-test
 Итог №2
 
 Контактная информация
-Email: name@email.com
-LinkedIn: https://www.linkedin.com/in/username/
-Личный сайт: https://www.username.com
+Mail: valdemar2000@yandex.ru 
+Telegram: https://t.me/GetsinVladimir 
+В Контакте: https://vk.com/vlad74vlad 
+Telefon: +79035394688
