@@ -1,21 +1,21 @@
 # Porfolio
 
-Портфолио: инженер по тестированию
+ПОРТФОЛИО: Инженер по тестированию.
 
-Обо мне:
+ОБО МНЕ.
 
 Привет! Меня зовут Гецин Владимир, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
-Навыки и технологии:
+НАВЫКИ И ТЕХНОЛОГИИ:
 
 Jira, Qase.io,SQL, Postman, Fiddler, Swagger, Trello,
 SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools, Figma.
 Pg-admin, google, notion.
 
-Проекты:
+ПРОЕКТЫ:
 
-Проект 1: тест веб-приложения для учителей от Skyeng
+ПРОЕКТ 1: тест веб-приложения для учителей от Skyeng
 
 Что нужно было сделать:
 
@@ -40,7 +40,7 @@ https://github.com/valdemar2000/Screenshot-of-the-portfolio
 
 В целом новый функционал (личные события) системы к выпуску готов на основании проведенных тестов.
 
-Проект 2: 
+ПРОЕКТ 2: 
 
 Тест кабинета учителя в приложении Skyeng
 
@@ -62,13 +62,17 @@ https://github.com/valdemar2000/Screenshot-of-the-portfolio
 
 https://github.com/valdemar2000/Screenshot-of-the-portfolio 
 
-Выводы (итоги):
+ВЫВОД:
 
 В целом новый функционал (личные события) системы к выпуску готов на основании проведенных тестов.
 
-Контактная информация
+КОНТАКТНАЯ ИНФОРМАЦИЯ:
+
 Email: Valdemar2000@yandex.ru
+
 Telegram: https://t.me/GetsinVladimir
+
 VK: https://vk.com/vlad74vlad
+
 Telefon +7 (903) 539 46 88
 
